@@ -1,3 +1,14 @@
 1
 2
 3
+git init : Initialze repository
+.git : git repository
+git status : working tree status
+git add : add to staging area
+git commit : create version
+git log : show version
+git log --stat 
+git diff : show changens
+git log -p
+git checkout hesh
+git checkout master
