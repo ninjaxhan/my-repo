@@ -12,3 +12,5 @@ git diff : show changens
 git log -p
 git checkout hesh
 git checkout master
+git config --global core.editor "nano"
+
