@@ -19,3 +19,8 @@ git push --set-upstream origin master
 
 backup2
 backup3
+
+git clone https://github.com/ninjaxhan/my-repo.git
+
+git log --all --greph -- oneline
+
