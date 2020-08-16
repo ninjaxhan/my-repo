@@ -26,3 +26,4 @@ git log --all --greph -- oneline
 
 git commit -am "master work 4"
 git checkout apple
+git checkout master
