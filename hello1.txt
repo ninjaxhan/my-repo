@@ -14,3 +14,4 @@ git checkout hesh
 git checkout master
 git config --global core.editor "nano"
 
+git push --set-upstream origin master
